@@ -6,5 +6,5 @@ Customization creates CSV layer on map and fixes console popup error on related 
 Version 2.12
 
 INSTRUCTIONS:
-1. Copy RelatedRecordsPopupProjector.js to \jimu.js\RelatedRecordsPopupProjector.js
-2. Copy folder Legend to \widgets\Legend
+1. Copy folder Legend to \widgets\Legend
+2. Copy RelatedRecordsPopupProjector.js to \jimu.js\RelatedRecordsPopupProjector.js
