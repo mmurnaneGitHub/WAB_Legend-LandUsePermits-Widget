@@ -3,7 +3,7 @@ Tacoma Public Notice Land Use Permits Legend Widget (https://wspdsmap.cityoftaco
 
 Customization creates CSV layer on map and fixes console popup error on related records.
 
-Version 2.13
+Version 2.14
 
 INSTRUCTIONS:
 1. Copy folder Legend to \widgets\Legend
